@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tk.mybatis.springboot.mapper.MyBatis331Test
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.487 sec - in tk.mybatis.springboot.mapper.MyBatis331Test
